@@ -13,7 +13,7 @@ This repository is used to make some experiments with mediapipe, for body recogn
 1. Get [Python 3](https://www.python.org/downloads/)
 2. Run the [start.bat](start.bat) file. It will download requirements and load successively the two programs.
 
-### IF YOU WANT TO RUN VIDEO_INPUT.MP4
+### IF YOU WANT TO RUN VIDEO_INPUT.PY
 
 1. Use this command `python video_input.py [your_youtube_video_link]`
 2. You only need to replace [] by the youtube video you want to use.
