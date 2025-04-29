@@ -28,7 +28,7 @@ if result.returncode != 0:
 
 
 video_path = output_filename
-# video_path = "your_video" #only for local video.
+#video_path = "videos/mediapipe_newmob_001.mp4" #only for local video.
 
 capture = cv2.VideoCapture(video_path)
 
